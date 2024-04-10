@@ -9,23 +9,24 @@
     <managingEditor>jwlben11@gmail.com (Jewel Bency)</managingEditor>
     <webMaster>jwlben11@gmail.com (Jewel Bency)</webMaster>
     <copyright>© 2024 Jewel Bency</copyright>
-    <lastBuildDate>Wed, 10 Apr 2024 17:30:49 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 23:18:46 +0530</lastBuildDate>
     <atom:link href="https://jwlben11.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hi There</title>
-      <link>https://jwlben11.github.io/hi-there/</link>
-      <pubDate>Wed, 10 Apr 2024 17:30:49 +0530</pubDate><author>jwlben11@gmail.com (Jewel Bency)</author>
-      <guid>https://jwlben11.github.io/hi-there/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    <item>
-      <title>Post</title>
-      <link>https://jwlben11.github.io/post/</link>
-      <pubDate>Wed, 10 Apr 2024 17:09:16 +0530</pubDate><author>jwlben11@gmail.com (Jewel Bency)</author>
-      <guid>https://jwlben11.github.io/post/</guid>
-      <description>hello there</description>
-      <content:encoded><![CDATA[<p>hello there</p>
+      <title>Ship things</title>
+      <link>https://jwlben11.github.io/ship/</link>
+      <pubDate>Wed, 10 Apr 2024 23:18:46 +0530</pubDate><author>jwlben11@gmail.com (Jewel Bency)</author>
+      <guid>https://jwlben11.github.io/ship/</guid>
+      <description>Put out small projects.
+It will give you credentials, social proof, and people will be willing to work with you.
+Winning begets winning.
+This is a complete guide on shipping things
+What do I ship? Ship things that you&amp;rsquo;re sure you can finish.</description>
+      <content:encoded><![CDATA[<p>Put out small projects.</p>
+<p>It will give you credentials, social proof, and people will be willing to work with you.</p>
+<p>Winning begets winning.</p>
+<p><strong>This is a complete guide on shipping things</strong></p>
+<h3 id="what-do-i-ship">What do I ship?</h3>
+<p>Ship things that you&rsquo;re sure you can finish.</p>
 ]]></content:encoded>
     </item>
   </channel>
