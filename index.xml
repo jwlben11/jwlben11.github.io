@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog of Jewel Bency</title>
+    <link>https://jwlben11.github.io/</link>
+    <description>Recent content on Blog of Jewel Bency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jwlben11@gmail.com (Jewel Bency)</managingEditor>
+    <webMaster>jwlben11@gmail.com (Jewel Bency)</webMaster>
+    <copyright>© 2024 Jewel Bency</copyright>
+    <lastBuildDate>Wed, 10 Apr 2024 17:09:16 +0530</lastBuildDate>
+    <atom:link href="https://jwlben11.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post</title>
+      <link>https://jwlben11.github.io/post/</link>
+      <pubDate>Wed, 10 Apr 2024 17:09:16 +0530</pubDate><author>jwlben11@gmail.com (Jewel Bency)</author>
+      <guid>https://jwlben11.github.io/post/</guid>
+      <description>hello there</description>
+      <content:encoded><![CDATA[<p>hello there</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
